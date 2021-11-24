@@ -1,3 +1,4 @@
 .idea
 e2cnn-docs
 .ipynb_checkpoints
+.pth

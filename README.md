@@ -1,4 +1,4 @@
-General E(2)-Equivariant Steerable CNNs
+E(2)-Equivariant Steerable CNNs for DOTA and xView
 --------------------------------------------------------------------------------
 **[Documentation](https://quva-lab.github.io/e2cnn/)** | **[Experiments](https://github.com/QUVA-Lab/e2cnn_experiments)** | **[Paper](https://arxiv.org/abs/1911.08251)** | **[Thesis](https://gabri95.github.io/Thesis/thesis.pdf)**
 

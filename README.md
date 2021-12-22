@@ -1,4 +1,20 @@
-E(2)-Equivariant Steerable CNNs for DOTA and xView
+Deep Learning Class project using E(2)-Equivariant Steerable CNNs for DOTA and xView
+
+Project Partners: 
+Anubhav Jain and Jesse Lew
+
+We have integrated our codebase which makes use of the E2CNN library, into their github repository. You can find a jupyter-notebook called e2cnn.ipnb which contains code to train the rotationally equivariant network as well as the non rotationally equivariant network. 
+
+We have also added scripts to chip the objects from the xView and the DOTA datasets in the main folder. 
+
+You can view the results in the results directory. You can play with any of the pretrained models in the models directory and use it to replicate any of the results reported. 
+
+Below is the README from the original E2CNN repository. 
+
+
+
+
+
 --------------------------------------------------------------------------------
 **[Documentation](https://quva-lab.github.io/e2cnn/)** | **[Experiments](https://github.com/QUVA-Lab/e2cnn_experiments)** | **[Paper](https://arxiv.org/abs/1911.08251)** | **[Thesis](https://gabri95.github.io/Thesis/thesis.pdf)**
 
